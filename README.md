@@ -7,11 +7,11 @@
 ```go
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = "Meta-Chain"
+	HRP = "Wizards Chain"
 	// TODO: choose a name for your hyperchain
-	Name = "Meta"
+	Name = "Wiz_Chain"
 	// TODO: choose a token symbol
-	Symbol = "MT"
+	Symbol = "WZ"
 )
 ```
 
@@ -29,7 +29,7 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = "Wizars Chain"
+	HRP = "Wizards Chain"
 	// TODO: choose a name for your hyperchain
 	Name = "Wiz_Chain"
 	// TODO: choose a token symbol
@@ -150,6 +150,6 @@ Load the demo private key included on the project ```./build/token-cli key impor
 ./build/token-cli key balance
 ```
 
-## Author : Venkatesh
+## Author : Venkateswarlu
 
 
