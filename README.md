@@ -1,4 +1,5 @@
-# Tokenvm Subnet using the Avalanche HyperSDK
+#HyperSDK_module
+
 
 # Adding things to consts.go file
 
